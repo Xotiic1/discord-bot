@@ -1,0 +1,42 @@
+{
+
+
+        "main_config": {
+                "token": "Nzk1NDQzODc4NTI1Nzk2Mzgy.X_Jc1w.kVe3B85fDlqZW8ouuQ9ms1x4Epw",
+                "prefix": ".",
+                "colour": "#100A7C",
+                "imageban": "https://i.imgur.com/Vb0t9pk.png",
+                "imagekick": "https://i.imgur.com/9xN9q23.png",
+                "voicechanneltojoin": "851579041375059979",
+                "usemysql": "false"
+
+        },
+
+
+        "ticket_config": {
+                "ticketteam": "835997102936686683",
+                "ticketcategory": "834551049947316294",
+                "transcriptchannel": "839254055037567016"
+
+        },
+
+        "logging_config": {
+                "logchannel": "851579958933061653", 
+                "welcomechannel": "830558982489112636",
+                "messageupdatelogging": "true",
+                "messagedeletelogging": "true",
+                "channelcreatelogging": "true",
+                "channeldeleteloggging": "true",
+                "channelupdatelogging": "true",
+                "rolecreatelogging": "true",
+                "roledeletelogging": "true",
+                "roleupdatelogging": "true",
+                "roleaddlogging": "true",
+                "roleremovelogging": "true",
+                "nicknamelogging": "true",
+                "banlogging": "true"
+        
+        
+        
+        }
+}

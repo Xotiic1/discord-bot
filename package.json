@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "nodemon": "modemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord-buttons": "^3.1.1",
+    "discord-fetch-all": "^3.0.2",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "sourcebin_js": "0.0.3-ignore",
+    "yt-search": "^2.8.0",
+    "ytdl-core": "^4.7.0"
+  }
+}
